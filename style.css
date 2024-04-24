@@ -1,0 +1,29 @@
+body {
+    font-family: "Poppins", sans-serif;
+}
+
+
+.atas {
+    width: 80%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.atas img{
+    padding-top: 20px;
+    padding-bottom: 7px;
+    width: 360px;
+    height: auto;
+}
+
+
+.navbar a {
+    color: #fff;
+}
+
+.navbar .gulir {
+    background:grey;
+}
